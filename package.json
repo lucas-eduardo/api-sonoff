@@ -7,7 +7,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "dev": "ts-node-dev --transpile-only --ignore-watch node_modules --respawn src/main.ts",
-    "ts-types": "tsc --emitDeclarationOnly --outDir lib",
+    "ts-types": "tsc --emitDeclarationOnly --outDir dist",
     "build": "rimraf dist && node script/build.js && npm run ts-types",
     "prepare": "npm run build"
   },
