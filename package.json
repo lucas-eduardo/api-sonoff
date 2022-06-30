@@ -6,7 +6,8 @@
   "module": "dist/index.esm.js",
   "scripts": {
     "dev": "ts-node-dev --transpile-only --ignore-watch node_modules --respawn src/main.ts",
-    "build": "node script/build.js"
+    "build": "node script/build.js",
+    "prepare": "npm run build"
   },
   "keywords": [],
   "author": "",
