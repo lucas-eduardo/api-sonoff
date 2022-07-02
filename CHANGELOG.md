@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/lucas-eduardo/sonoff/compare/v1.0.0...v1.0.1) (2022-07-02)
+
+
+### Bug Fixes
+
+* fix upgrade minimist ([17e2b18](https://github.com/lucas-eduardo/sonoff/commit/17e2b18b692c4f3aa05a79337a5d2b40c1daed5e))
+
 # 1.0.0 (2022-07-02)
 
 
