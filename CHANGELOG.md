@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/lucas-eduardo/sonoff/compare/v1.0.4...v1.1.0) (2022-07-03)
+
+
+### Features
+
+* test ([66cc77f](https://github.com/lucas-eduardo/sonoff/commit/66cc77f61a7b8c687c26fec84957bfa402761d77))
+
 ## [1.0.4](https://github.com/lucas-eduardo/sonoff/compare/v1.0.3...v1.0.4) (2022-07-03)
 
 
