@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lucas-eduardo/sonoff.git"
+    "url": "https://github.com/lucas-eduardo/api-sonoff.git"
   },
   "contributors": [
     "Lucas Eduardo (https://github.com/lucas-eduardo)"
@@ -28,7 +28,7 @@
   "author": "Lucas Eduardo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lucas-eduardo/sonoff/issues"
+    "url": "https://github.com/lucas-eduardo/api-sonoff/issues"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
