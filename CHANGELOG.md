@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/lucas-eduardo/sonoff/compare/v1.0.2...v1.0.3) (2022-07-03)
+
+
+### Bug Fixes
+
+* test ([11808f4](https://github.com/lucas-eduardo/sonoff/commit/11808f4752da0f849367bd423e3f59f2fdce2c54))
+
 ## [1.0.2](https://github.com/lucas-eduardo/sonoff/compare/v1.0.1...v1.0.2) (2022-07-02)
 
 
