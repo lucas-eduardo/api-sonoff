@@ -40,7 +40,7 @@ const {
   interrupter,
   automaticInterrupter,
   infoDevice
-} = sonoff('http://10.0.0.171', 8082, '1003564a2a')
+} = sonoff('http://10.0.0.170', 8082, '1003564a2a')
 
 startup('stay')
   .then(response => {

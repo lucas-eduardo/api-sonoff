@@ -1,8 +1,10 @@
-name: Sonoff CI
+name: Sonoff NPM Publish
 
 on:
-  release:
-    types: [released]
+  workflow_run:
+    workflows: [Sonoff Release]
+    types:
+      - completed
 
 jobs:
   build:
