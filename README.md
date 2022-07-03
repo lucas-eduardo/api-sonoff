@@ -2,8 +2,6 @@
 
 Promise based Sonoff API for node.js
 
-[![NPM Publish](https://github.com/lucas-eduardo/api-sonoff/actions/workflows/npm-publish.yml/badge.svg?branch=master)](https://github.com/lucas-eduardo/api-sonoff/actions/workflows/npm-publish.yml)
-
 ## Table of Contents
 
   - [Features](#features)
