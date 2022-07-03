@@ -15,7 +15,8 @@
     "sonoff",
     "http",
     "promise",
-    "node"
+    "node",
+    "api"
   ],
   "repository": {
     "type": "git",

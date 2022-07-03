@@ -1,4 +1,4 @@
-name: Sonoff NPM Publish
+name: NPM Publish
 
 on:
   workflow_run:

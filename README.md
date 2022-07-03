@@ -2,6 +2,8 @@
 
 Promise based Sonoff API for node.js
 
+[![NPM Publish](https://github.com/lucas-eduardo/sonoff/actions/workflows/npm-publish.yml/badge.svg?branch=master)](https://github.com/lucas-eduardo/sonoff/actions/workflows/npm-publish.yml)
+
 ## Table of Contents
 
   - [Features](#features)
@@ -25,13 +27,13 @@ Promise based Sonoff API for node.js
 Using npm:
 
 ```bash
-$ npm install sonoff
+$ npm install api-sonoff
 ```
 
 ## Example
 
 ```js
-import sonoff from 'sonoff'
+import sonoff from 'api-sonoff'
 
 const {
   startup,
